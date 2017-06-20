@@ -1,0 +1,37 @@
+body {
+    background-color: lime;
+    font-family: sans-serif;
+}
+
+#title{
+    padding-left: 700px;
+    border-bottom-color: lime;
+    background-color: red;
+    color: aqua;
+}
+
+
+#faq{
+    padding-top: 350px;
+    position: absolute;
+}
+
+#crocPic{
+    position: absolute;
+    padding-left: 700px;
+    padding-top: 130px;
+}
+
+#joshCroc{
+    position: absolute;
+    padding-right: 50px;
+    padding-top: 130px;
+}
+
+#Info{
+    position: center;
+    padding-top: 400px;
+    padding-left: 700px;
+    color: red;
+    font-size: 28px;
+}
